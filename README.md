@@ -2,7 +2,7 @@
 
 # 购买源码版请访问这个网址
 
-<https://ext.dcloud.net.cn/plugin?id=8552>
+<https://www.swxia.com/tingshu/book.html>
 
 #### **介绍**
 
